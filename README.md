@@ -47,7 +47,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://deliverble.vercel.app/learn">DeliverBle</a></td>
+      <td><a href="https://deliverble.vercel.app/">DeliverBle</a></td>
       <td>아나운서 쉐도잉으로 키우는 스피치 자신감</td>
       <td><img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br></td>
       <td>SOPT 30th AppJam 최우수상 / 릴리즈 준비 중</td>
