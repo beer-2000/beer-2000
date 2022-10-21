@@ -17,7 +17,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.navercloudcorp.com/">네이버클라우드</a></td>
+      <td><a href="https://www.navercloudcorp.com/">NAVER Cloud</a></td>
       <td>2021.01 - 2021.07</td>
       <td>Cloud Marketing Intern</td>
     </tr>
