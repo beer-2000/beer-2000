@@ -29,7 +29,7 @@
     <tr>
       <td><a href="https://sopt.org/">SOPT 30th</a></td>
       <td>2022.03 - 2022.08</td>
-      <td>서버파트</td>
+      <td>서버 파트</td>
     </tr>
   </tbody>
 </table>
