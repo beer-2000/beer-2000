@@ -31,6 +31,11 @@
       <td>2022.03 - 2022.08</td>
       <td>서버 파트</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/woowacourse">우아한테크코스 5th</a></td>oo
+      <td>2023.02 - 2023.11</td>
+      <td>웹 백엔드 파트</td>
+    </tr>
   </tbody>
 </table>
 <br>
@@ -47,13 +52,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://deliverble.kr/">DeliverBle</a></td>
+      <td><a href="https://deliverble.kr/">딜리버블</a></td>
       <td>아나운서 쉐도잉으로 키우는 스피치 자신감</td>
       <td><img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br></td>
       <td>SOPT 30th AppJam 최우수상 / 서비스 중</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/horsehair/unimate">Unimate</a></td>
+      <td><a href="https://github.com/JupGo">줍GO</a></td>
+      <td>지구를 살리는 즐거운 움직임</td>
+      <td><img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br></td>
+      <td>SOPT 31th 솝텀 제출작</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/horsehair/unimate">유니메이트</a></td>
       <td>대학친구를 만나는 새로운 방법</td>
       <td><img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br></td>
       <td>원티드 주관 해커톤 실버 뱃지 수상</td>
