@@ -50,7 +50,7 @@
       <td><a href="https://deliverble.kr/">DeliverBle</a></td>
       <td>아나운서 쉐도잉으로 키우는 스피치 자신감</td>
       <td><img src="https://img.shields.io/badge/Backend-83B81A?style=flat-square"/><br></td>
-      <td>SOPT 30th AppJam 최우수상 / 릴리즈 준비 중</td>
+      <td>SOPT 30th AppJam 최우수상 / 서비스 중</td>
     </tr>
     <tr>
       <td><a href="https://github.com/horsehair/unimate">Unimate</a></td>
